@@ -30,14 +30,14 @@ cd slot-machine-game
 
 **Example Game Play**
 
-Enter a deposit amount: 100
-You have a balance of $100
-Enter the number of lines to bet on (1-3): 2
-Enter the bet per line: 10
+1. Enter a deposit amount: 100
+2. You have a balance of $100
+3. Enter the number of lines to bet on (1-3): 2
+4. Enter the bet per line: 10
 A | B | C
 D | A | D
 C | C | B
-You won, $0
-You have a balance of $80
-Do you want to play again (y/n)? y
-...
+6. You won, $0
+7. You have a balance of $80
+8 . Do you want to play again (y/n)? y
+
