@@ -4,12 +4,12 @@ This Slot Machine Game is a simple command-line application written in JavaScrip
 
 **Basic Actions**
 
-1.Deposit Money: The player is prompted to enter a deposit amount to start the game.
-2.Bet on Lines: The player selects the number of lines (1 to 3) to bet on.
-3.Place Bet: The player sets a bet amount for each line.
-4.Spin the Slot Machine: The slot machine reels spin and display a combination of symbols.
-5.Check Winnings: The game calculates the winnings based on the bet amount and the symbols displayed on the lines bet on.
-6.Play Again: The player can choose to play again if they have a remaining balance or stop the game.
+1. Deposit Money: The player is prompted to enter a deposit amount to start the game.
+2. Bet on Lines: The player selects the number of lines (1 to 3) to bet on.
+3. Place Bet: The player sets a bet amount for each line.
+4. Spin the Slot Machine: The slot machine reels spin and display a combination of symbols.
+5. Check Winnings: The game calculates the winnings based on the bet amount and the symbols displayed on the lines bet on.
+6. Play Again: The player can choose to play again if they have a remaining balance or stop the game.
 
 
 **Features**
